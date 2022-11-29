@@ -1,0 +1,81 @@
+const products = [
+  {
+    name: "Wooden TV Entertainment Unit",
+    image: "/images/TV_Entertainment_Unit.jpg",
+    description:
+      "Elegant & Enticing Look Elevate your living area with Ambienc entertainment center, a modern and sophisticated take for showcasing your TV, media accessories, speakers, decorative accents, and beyond.",
+    brand: "Furnifry",
+    category: "TV Set",
+    price: 3999,
+    countInStock: 200,
+    rating: 0,
+    numReviews: 0,
+    productKey: "1234567890abcdef",
+  },
+  {
+    name: "Handicrafts Wooden Serving and Cooking Spoons Set of 7",
+    image: "/images/woodenSet.jpg",
+    description:
+      "Hand made Wooden Set Of Spoons for elegant feel. Colour: Brown Material : Wood Brand : Simran Handicrafts Style : Cooking Item Dimensions LxWxH8.3 x 6.9 x 32.6 Centimeters About this item Material : Wood Set of 7 Kitchen Utensil Set",
+    brand: "Amazon",
+    category: "Wooden Set",
+    price: 29.99,
+    countInStock: 0,
+    rating: 0,
+    numReviews: 0,
+    productKey: "6845478904abvfdf",
+  },
+  {
+    name: "Home Centre Diana 6-Seater Dining Table",
+    image: "/images/Dining_Set.jpg",
+    description:
+      "Beech wood is one of the most reliable materials when it comes to durability. Furniture built out of beech wood is very hard and tough, and can withstand shocks and wear.  Primary material of this piece being solid wood, it maximum durability. Moreover, the veneer finish does not only contribute to the aesthetic value of the product but also protects it from splintering or warping.",
+    brand: "Walnut",
+    category: "Dinig Table",
+    price: 5998.99,
+    countInStock: 100,
+    rating: 0,
+    numReviews: 0,
+    productKey: "9234567890aqcdgf",
+  },
+  {
+    name: "Furniture Wooden Double Cot",
+    image: "/images/Bed.jpg",
+    description: "Best Quality Wooden Bed of Double Occupancy. ",
+    brand: "KPR",
+    category: "Bed",
+    price: 929.99,
+    countInStock: 3,
+    rating: 0,
+    numReviews: 0,
+    productKey: "8836567799jkcieh",
+  },
+  {
+    name: "Wooden Study Table with Chair",
+    image: "/images/Study_Table.jpg",
+    description:
+      "Wooden study table set create a beautiful impression with perception of modernization.",
+    brand: "Solimo",
+    category: "Study Table",
+    price: 399.99,
+    countInStock: 11,
+    rating: 0,
+    numReviews: 0,
+    productKey: "8234567890zbzdrf",
+  },
+  {
+    name: "Solimo Medusa Engineered Wood 2 Door Wardrobe",
+    image: "/images/Wordrob.jpg",
+    description:
+      "2 Door Wardrobe with multiple shelves for organising clothes and storage Product Dimensions:- Length: 75 cm (29.53 inches); Width: 45 cm (17.72 inches); Height: 183 cm (72.05 inches) Manufactured using premium-quality engineered wood which offers sturdiness and durability Contemporary design and long-lasting, smooth walnut finish gives a classy look Spaciously designed 2-door wardrobe for ample spacing, includes multiple shelves and hanging storage for efficient organisation",
+    brand: "Walnut",
+    category: "Wordrobe",
+    price: 49.99,
+    countInStock: 2,
+    rating: 0,
+    numReviews: 0,
+    productKey: "6781273990abddhf",
+  },
+];
+
+export default products;
