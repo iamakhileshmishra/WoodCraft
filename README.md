@@ -1,8 +1,5 @@
 # woodCraft    [Open deployment]()
 
-<img width="843" alt="image" src="https://user-images.githubusercontent.com/79476272/181875340-0f639332-0b55-4078-a720-4c672eccf66d.png">
-<img width="839" alt="image" src="https://user-images.githubusercontent.com/79476272/181875361-58627bc2-ff66-42c8-9ea2-f4a065907931.png">
-<img width="842" alt="image" src="https://user-images.githubusercontent.com/79476272/181875379-c51e8ef3-692c-4a02-a9d4-a5c4b83715a4.png">
 
 
 ## Features
